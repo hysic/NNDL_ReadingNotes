@@ -1,2 +1,3 @@
-# NNDL_ReadingNotes
-Reading notes for Neural Networks and Deep Learning
+卡片大法好~
+
+详见issue
